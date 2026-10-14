@@ -16,6 +16,7 @@
 7. **Suggest content, don't invent it.** Propose missing items from `03` as questions; print only what is confirmed.
 8. **Reflect in ≤1 line** after each round; no summaries of summaries.
 9. **Mirror the owner's language**; casual, short sentences.
+10. **Listen beneath answers.** Note signals that shape direction (buyer vs user, price tier vs requested look, pride/shame points, neighbors' look, facade, lifespan; table in `04` §2). Don't interrogate for them; ask only when decisive and unknown.
 
 ## 2. Rounds (merge or skip by triage)
 
@@ -23,7 +24,8 @@
 Ask only what is unknown:
 - **Name** (exact spelling/case) · **what is really sold or done** (the product, not the category) · **for whom** (age, occupation, occasion) · **how they buy** (dine-in, takeaway, delivery, pre-order, walk-in service).
 - **Place:** street, pasar, ruko, mall, kampus, perumahan, kantor, wisata, terminal, online-first; what passers-by see before and after the sign; how they pass (jalan kaki, motor, mobil, angkot) and from how far.
-- **Closest alternative:** the competitor or "default choice", and how its signs/menus look (decides belong vs stand out).
+- **Closest alternative:** the competitor or "default choice", and how its signs/menus look (decides belong vs stand out); the **dominant colors/styles of neighbors and the facade** the sign will sit on.
+- **Who decides vs who uses** (parents/kids, admin/catering, gift buyers).
 - **Stage and constraints:** new/established (since when)/rebranding/opening soon; one outlet or many; print budget range; deadline.
 
 ### Round 2: USP discovery (the most important)
@@ -67,6 +69,7 @@ Pick 2-3 probes by what the owner can answer; aim for **1 primary USP + 1-3 supp
 - **Assets:** logo, old design, product photos, style references. For each: use as-is / improve / vibe only, and which medium. (§6)
 - **Must-avoid and brand colors** in one question: "Ada warna/gaya/gambar yang harus dipakai atau dihindari?"
 - **Hero items:** 1 hero + up to 3-5 featured.
+- **Life of the piece:** how long it will be used, weather/handling, how often prices or menu change, and how many print colors the budget allows.
 
 ## 3. Verification (before closing any round)
 1. Say what you understood in ≤1 line.

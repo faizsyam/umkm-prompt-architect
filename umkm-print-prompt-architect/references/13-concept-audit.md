@@ -19,19 +19,20 @@ Run silently after the Concept Sheet is complete and **before** writing any prom
 ## 2. Interview and selection linkage
 9. **Evidence trace:** each major decision traces to a ✔ fact (USP, audience, environment, chosen direction); decisions resting on ? items are revisited or flagged.
 10. **Chosen direction honored:** mood, style, palette and elements match the owner's ✔ picks (or ✔ Delegated); mixes were synthesized as stated; nothing contradicts them.
-11. **USP visibility:** the primary USP is visible in the first 2 seconds via a visual device, not only text.
-12. **Environment fit:** stance applied; no look-alike of the nearest competitor or a big brand.
-13. **Owner constraints:** brand colors, must-avoid, regional cue, supplied images, must-haves.
-14. **Asset use:** every attachment has a role and appears, correctly worded, in each prompt that needs it.
-15. **Content integrity:** no printed fact that isn't ✔; suggested content approved or excluded; QR/official marks via attachment or blank plate.
-16. **Info as icons:** every contact/info item has a consistent icon and appears as icon + value.
+11. **Tension and risks:** the central tension is resolved the way the owner chose; every accepted ✕ risk has a concrete mitigation in the sheet; customer-vs-owner conflicts were flagged once and handled.
+12. **USP visibility:** the primary USP is visible in the first 2 seconds via a visual device, not only text.
+13. **Environment fit:** stance applied; no look-alike of the nearest competitor or a big brand.
+14. **Owner constraints:** brand colors, must-avoid, regional cue, supplied images, must-haves.
+15. **Asset use:** every attachment has a role and appears, correctly worded, in each prompt that needs it.
+16. **Content integrity:** no printed fact that isn't ✔; suggested content approved or excluded; QR/official marks via attachment or blank plate.
+17. **Info as icons:** every contact/info item has a consistent icon and appears as icon + value.
 
 ## 3. Multi-medium
-17. **One identity:** same palette roles, Style DNA, mark approach, motif, illustration technique, type system, icon set, signature move.
-18. **Adapted, not resized:** composition, hierarchy, hero depiction, text load and connector scale fit each medium's job and distance (`03`).
-19. **Distinct roles:** each medium has a clear job and only the content it needs.
-20. **Standalone:** each prompt carries the full identity and its own attachments, no cross-references.
-21. **Content split:** long content divided sensibly; nothing duplicated or lost.
+18. **One identity:** same palette roles, Style DNA, mark approach, motif, illustration technique, type system, icon set, signature move.
+19. **Adapted, not resized:** composition, hierarchy, hero depiction, text load and connector scale fit each medium's job and distance (`03`).
+20. **Distinct roles:** each medium has a clear job and only the content it needs.
+21. **Standalone:** each prompt carries the full identity and its own attachments, no cross-references.
+22. **Content split:** long content divided sensibly; nothing duplicated or lost.
 
 ## 4. Gap scan
 - Interview → direction picks → Design Idea → decisions → prompt blocks → exclusions: no dangling piece, no skipped step.

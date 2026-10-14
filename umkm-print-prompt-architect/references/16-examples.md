@@ -52,29 +52,54 @@ Ringkasan (mohon dicek):
 Sudah sesuai? Balas "lanjut" atau koreksi.
 ```
 
-## D. Direction selection samples (one dimension per request)
+## D. Direction selection samples (one dimension per request; insight lead, ✓/✕ per option)
+Direction Brief (internal): signals = mahasiswa, sore-malam, banyak kedai sekitar berwarna cokelat-hijau, budget terbatas; tension = stand out ↔ fit in.
+
 **D1 Mood**
-> Untuk Kopi Senja yang dekat kampus, kesan pertama yang paling pas:
-> A. **Hangat & akrab**: seperti sore di teras, ramah dan tenang
-> B. **Muda & kekinian**: berani, rapi, enak di-foto dan dibagikan
-> C. **Nostalgia kedai lama**: jadul, hangat, terasa legendaris
-> Rekomendasi: **B**, karena pelanggan mahasiswa dan pesaing banyak. Pilih satu, campur (mis. A+B), atau "terserah".
+> Banyak kedai di sekitar kampus tampil cokelat-hijau dan kalem, jadi kesan pertama Anda menentukan.
+> A. **Hangat & akrab**: seperti teras sore yang ramah
+>    ✓ Pilih kalau ingin pelanggan betah dan balik lagi
+>    ✕ Kurang cocok kalau ingin langsung mencolok di keramaian
+> B. **Muda & kekinian**: berani, rapi, enak difoto
+>    ✓ Pilih kalau target utama mahasiswa yang suka berbagi
+>    ✕ Kurang cocok kalau ingin tahan lama tanpa terasa ketinggalan zaman
+> C. **Nostalgia kedai lama**: jadul, hangat, legendaris
+>    ✓ Pilih kalau cerita gula aren buatan sendiri mau ditonjolkan
+>    ✕ Kurang cocok kalau ingin terlihat baru bagi anak muda
+> Rekomendasi: **B**, karena pelanggan muda dan tetangga serba kalem. Risikonya cepat terasa biasa; saya tutup dengan satu ciri khas yang kuat di logo.
+> Pilih satu, campur (mis. A+B), atau "terserah".
 
 **D2 Style** (after D1 = B)
-> A. **Poster Kampus**: blok warna tegas, huruf tebal, gambar gelas besar terpotong
-> B. **Papan Kedai Modern**: bersih, huruf geometris, banyak ruang kosong, aksen satu warna
-> C. **Senja Ilustrasi**: ilustrasi langit senja datar berlapis, mood tenang tapi segar
-> Rekomendasi: **A**, paling menonjol di antara kedai sekitar. …
+> A. **Poster Kampus**: blok warna tegas, huruf tebal, gelas besar terpotong
+>    ✓ Pilih kalau ingin paling menonjol dari jauh
+>    ✕ Kurang cocok kalau ingin terlihat mahal atau tenang
+> B. **Papan Kedai Modern**: bersih, huruf geometris, aksen satu warna
+>    ✓ Pilih kalau ingin rapi dan mudah dipakai di banyak media
+>    ✕ Kurang cocok kalau tetangga juga tampil modern; mudah mirip
+> C. **Senja Ilustrasi**: langit senja datar berlapis, tenang tapi segar
+>    ✓ Pilih kalau ingin punya ciri khas yang tidak dimiliki kedai lain
+>    ✕ Kurang cocok kalau budget cetak sedikit warna; butuh ilustrasi rapi
+> Rekomendasi: **A** …
 
 **D3 Palette** (after D2 = A)
-> A. **Senja Jingga**: jingga terbakar, ungu tua, krem, aksen kuning (hangat, berani)
-> B. **Kopi & Susu**: cokelat espresso, krem susu, hijau sage (kalem, rapi)
-> C. **Malam Kampus**: biru malam, kuning lampu, putih (menyala di malam hari)
+> A. **Senja Jingga**: jingga, ungu tua, krem, aksen kuning
+>    ✓ Pilih kalau ingin beda dari tetangga cokelat-hijau
+>    ✕ Kurang cocok kalau logo Anda berwarna hijau tua
+> B. **Kopi & Susu**: cokelat espresso, krem susu, hijau sage
+>    ✓ Pilih kalau ingin kalem dan jelas "kedai kopi"
+>    ✕ Kurang cocok kalau ingin menonjol; mirip kedai sekitar
+> C. **Malam Kampus**: biru malam, kuning lampu, putih
+>    ✓ Pilih kalau ramai di malam hari dan ingin menyala
+>    ✕ Kurang cocok kalau spanduk dilihat siang di bawah matahari
 > Rekomendasi: **A** …
 
 **D4 Elements** (multi-select)
-> ☐ Maskot gelas kecil ☐ Gambar gelas besar (ilustrasi) ☐ Motif daerah ☐ Badge harga ☐ Kotak QR kosong ☐ Tanpa ornamen tambahan
-> Rekomendasi: gambar gelas besar + kotak QR kosong.
+> ☐ **Maskot gelas**: ✓ mudah diingat · ✕ kurang pas bila ingin serius
+> ☐ **Gelas besar (ilustrasi)**: ✓ langsung paham produknya · ✕ detail harus akurat
+> ☐ **Badge harga**: ✓ mendorong beli · ✕ cepat usang bila harga berubah
+> ☐ **Kotak QR kosong**: ✓ siap ditempel QR asli · ✕ memakan ruang
+> ☐ **Hanya huruf**: ✓ hemat, tegas · ✕ kurang menggugah selera
+> Rekomendasi: gelas besar + kotak QR kosong.
 
 ## E. Fragment: attachments and icons in a prompt (structure only)
 ```

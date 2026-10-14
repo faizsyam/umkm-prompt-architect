@@ -36,7 +36,7 @@ Claude lalu merangkum jawaban Anda. Cek dulu, lalu balas **"lanjut"** kalau suda
 3. **Warna**
 4. **Elemen tambahan** (misalnya maskot, gambar produk besar, motif daerah, kotak QR kosong)
 
-Setiap pertanyaan memberi 3 pilihan yang disesuaikan dengan usaha Anda, lengkap dengan rekomendasi. Boleh pilih satu, campur (misalnya A+C), atau jawab "terserah".
+Setiap pertanyaan memberi 3 pilihan yang disesuaikan dengan usaha Anda. Tiap pilihan dijelaskan **kapan cocok dipilih (✓)** dan **kapan kurang cocok (✕)**, lalu ada rekomendasi beserta risikonya. Boleh pilih satu, campur (misalnya A+C), atau jawab "terserah".
 
 **Tidak tahu jawabannya? Tidak apa-apa.** Katakan saja "bingung" atau "terserah". Claude akan memberi pilihan dan saran.
 

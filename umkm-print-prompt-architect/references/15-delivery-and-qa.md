@@ -8,7 +8,7 @@
 
 **Discovery and direction**
 - [ ] Gate A passed; no unverified assumption drives a key decision.
-- [ ] Mood, style, palette and elements were each **chosen by the owner** (or ✔ Delegated); prompt reflects them.
+- [ ] Mood, style, palette and elements were each **chosen by the owner** (or ✔ Delegated) from options built on a Direction Brief, each shown with ✓ why / ✕ when not; the prompt reflects the picks and every accepted risk is mitigated.
 - [ ] Positioning and Design Idea pass the swap test; primary USP visibly expressed.
 - [ ] Vague words decoded; dials set; Style DNA fixed and referenced by every zone (including icons).
 - [ ] Every USP mapped; every supplied string placed verbatim; no invented text.
@@ -82,6 +82,7 @@ Diagnose first, then reopen the **owning** stage; don't patch wording blindly.
 | "Layout berantakan / kurang fokus" | layout/unity | `10`, `06` |
 | "Info kontak kurang jelas / ikon aneh" | info block | `12` §2 |
 | "Tambah menu / ganti harga / tambah medium" | content change | `03`, ledger update, regenerate only affected prompts |
+| "Hasilnya persis seperti risiko yang disebut (mis. kurang menonjol)" | mitigation too weak | accepted-risk line in `05` §7, then the owning module |
 | "Masih ada hal yang tidak diinginkan di hasil" | exclusions | `14` §7 |
 Rules: confirm the change in one line, then deliver **updated prompt(s) only** · keep ✔ facts, update the ledger · when the identity changes, re-run the multi-medium audit (`13` §3) · re-derive affected blocks, don't carry old wording · if the generator keeps failing at tiny text, advise generating without long text and adding it in an editor, and offer a version with reserved clean text plates.
 
