@@ -1,150 +1,99 @@
-# 03. Print Types: default content, structure, hierarchy, sizes
+# 03. Print Types: content, structure, hierarchy, materials, sizes
 
-**Persona: Print Production Specialist & Information Designer.** You know how each print product is used in real life: where it hangs, how far it is read from, what customers look for first, and what the printer needs. You know what information each product normally carries so nothing important is forgotten, and how to rank it.
+**Persona: Print Production Specialist & Information Designer.** You know how each product is used in real life: where it hangs, from how far it is read, what customers look for first, what the printer needs, and what information it normally carries so nothing important is forgotten.
 
-**How to use this file.** Principle first: **a print product is defined by its job, its viewing distance, its text load, and its physical constraints.** Decide those, then choose structure and hierarchy. The per-type entries are *typical defaults and examples*, not strict templates: layouts listed are alternatives (A or B or C or something else that fits the Design Idea). Use the **default content** to run the interview (Round C): suggest missing items to the owner and let them confirm; never print an item the owner didn't supply.
+**Principle.** A print product is defined by **job → viewing distance → text load → physical constraints**. Decide those, then choose structure and hierarchy. Entries below are **typical defaults, not templates**; structure options are alternatives (A or B or C or another that fits the Design Idea). Use *default content* to drive the interview (suggest missing items; print only confirmed ones).
 
 ---
 
 ## 1. Universal principles
-
-1. **Job → distance → text load → structure.** What must the viewer do? From how far? How much must they read? Then structure.
-2. **Reading order by distance.** Far: brand mark + offer silhouette. Mid: key message/tagline/hero. Near: details, prices, contacts.
-3. **Ranking the information.** Tier 1 (always): name + what it is. Tier 2: the hook (USP/hero/offer). Tier 3: action info (contact, address, hours). Tier 4: details (items, prices, small notes). The less text a medium carries, the more each element must be earned.
-4. **Safe areas.** Keep critical content away from edges: outer ~5% for large flexible media (hems, grommets, wrap), ~3-5% for paper (trim tolerance), more for die-cut stickers and folded items. Extend backgrounds to the edge (full bleed); do not draw crop marks or borders unless chosen.
-5. **Ratio handling.** Image generators offer limited ratios. State the true ratio and size, and design so a nearest-ratio render survives: keep key content in a central safe zone, let the field and connector extend to the edges so the artwork can be extended or cropped by the printer.
-6. **Text load vs. generator accuracy.** Image models misrender long text. Keep strings few and short; menus with many lines: split into sections or media (see Menu), and warn the owner in the assumptions line that small text may need correction in an editor.
-7. **Icons for contact info** (see `11`): phone/WhatsApp, Instagram/Facebook/TikTok, location pin, clock for hours, globe for website, delivery scooter, etc. The value is printed; the label word is not.
-8. **Print production notes** (state only as intent, no marks): flat artwork, colors that survive CMYK and sun (no neon, no extremely saturated blue-violets for large flexi), enough contrast for outdoors, no fine hairlines in text for banner media.
-
-### Scale rule of thumb
-Key text height ≈ **2.5 cm per 3 m** of viewing distance (minimum). The brand mark should read as a silhouette from far, secondary text from mid distance, fine detail only up close.
+1. **Reading order by distance.** Far: mark + offer silhouette. Mid: hook/hero/tagline. Near: details, prices, contacts.
+2. **Information tiers.** T1 name + what it is → T2 hook (USP/hero/offer) → T3 action info (contact, address, hours) → T4 details (items, prices, notes). Less text = each element must be earned.
+3. **Safe areas.** Large flexible media: keep critical content ≥5% from edges (hems, grommets, wrap). Paper: 3-5% (trim tolerance). Stickers/folds: more. Extend backgrounds to the edge (full bleed); no crop marks or borders unless chosen.
+4. **Ratio handling.** Generators offer limited ratios: state the true ratio and size; keep key content in a central safe zone; let field and connector extend to the edges so the printer can extend/crop.
+5. **Text load vs generator accuracy.** Few, short strings render reliably. Long lists: split by section/page/medium, and warn in the assumptions line.
+6. **Contact/info = icon + value** (`12` §2); label words never printed.
+7. **Scale rule:** key text height ≈ 2.5 cm per 3 m viewing distance (minimum); the mark must survive as a silhouette at far distance.
+8. **Production intent only** (no marks drawn): flat artwork; colors that survive CMYK and sun; strong outdoor contrast; no hairlines on banner media.
+9. **Content checklist:** **E** essential · **C** common (suggest) · **O** optional (suggest when it fits the USP). Facts always "only if supplied".
 
 ---
 
-## 2. Content checklist format
-**E** = essential, **C** = common (suggest), **O** = optional (suggest when it fits the USP). "Only if supplied" always applies to facts.
+## 2. Product library
+**Large format / outdoor**
+| Product | Typical size (ratio) | Default content | Hierarchy / structure options | Constraints |
+|---|---|---|---|---|
+| Spanduk / banner horizontal | 3×1, 4×1, 3×0.8, 4×1.2 m (3:1-5:1) | E name, descriptor · C 2-4 hero items or tagline, phone/WA, area, social · O promo, hours, grand opening, delivery | mark ≫ hero > contact strip; centered axis, weighted asymmetry, two-zone anchored, hero-led bleed, banded, single-line sign + hero | mark readable ≥10 m; keep outer ~5% free; sun glare → value contrast |
+| Baliho / large wall panel | ≥3×2 m | E name, one hero, one contact | one hero + mark + one line; silhouettes only | extreme distance |
+| X-banner | 60×160 cm (~1:2.7) | E name, descriptor · C hero/offer, 3-5 points, contact, location · O promo, QR plate, hours | mark top third → hero → points → contact lower third; vertical stack, tiers, hero-led, descending path | bottom 10-15% free (stand), top ~5% (clip) |
+| Roll-up | 80×200 or 85×200 cm (~1:2.4) | as X-banner | as X-banner | same; base roll hides bottom |
+| Papan nama / plang / neon box / huruf timbul | 2-4 m × 60-100 cm (4:1-8:1) | E name, descriptor · C one-line offer/categories, phone · O address, year | name dominates; single-line, two-line, name+icon, name over band | backlit: high letter/ground contrast; fewer details |
+| A-frame / standing board (papan A) | A1-A0 portrait | E name, today's offer · C 3-6 items, price · O promo | headline → items → price; chalkboard, banded, hero-led | two sides possible; rain-safe |
+| Gerobak / tenda / booth / vehicle panel | 150-200×60-80 cm strip | E name, product · C price list 3-6 items, contact · O QR plate | long strip: mark centered or anchored, items inline | wrap corners/folds; read in motion |
+| Window/door sticker, glass film | 30-120 cm | E name · C hours, action (open/close optional) · O social | mirror-safe decision; simple shapes; 2-3 colors | variable background → add plate; keep clear of edges |
+| Umbul-umbul / flag / bunting | 40-60×200-400 cm | E name/offer · C hero | vertical single idea, strong silhouette | wind movement; no fine detail |
+| Backdrop / photo wall / stage | 2-4 m | E name, event, date · O sponsors | mark center/top; pattern field; clear zone for people | people cover lower center |
+| Spanduk kain / banner kain | like spanduk | same | same | fabric texture, fold safe |
+
+**Menus and price info**
+| Product | Size | Default content | Structure / hierarchy | Notes |
+|---|---|---|---|---|
+| Menu (A4/A3/A5, booklet, folder) | A4 portrait, A3 landscape | E name, categories, items, prices · C short descriptions (if supplied), hours, ordering line, location · O best-seller, spice level, add-ons, payments, notes (service charge) | header 15-25% → category → item → price → description → contact strip; banded sections, 2-3 column grid, hero-led + list, category tabs, one page per category | price column consistent; >20 items → split pages/prompts |
+| Menu board (wall/counter) | 60×90 to 100×150 cm | E items, prices | large item names, 8-12 lines, high contrast | read at 2-4 m |
+| Daftar harga / price list | A4/A5/A3 | E service, price, unit · C turnaround, pickup, contact · O bundles | table or cards, icon per service, one price column | minimal decoration |
+| Table tent / tent card / QR stand | 10×15 cm to A5 | E name, message · C QR plate, handle · O best-seller | compact, two-sided | QR = attached or blank plate |
+| Placemat / tray liner / kertas alas | A4-A3 | E name · C fun fact, handle · O promo | pattern field + clear plate zone | food grease; lower contrast OK |
+
+**Paper promotion**
+| Product | Size | Default content | Structure | Notes |
+|---|---|---|---|---|
+| Poster | A3, A2, A1 | E name, one message · C hero, contact, address, date/time · O CTA, QR plate | one message → visual → details → CTA; hero-led, diagonal, stacked, split, typographic | single message |
+| Flyer / leaflet | A5, A6, A4 | E name, offer · C details, contact · O voucher, QR plate | headline → proof → CTA | one headline |
+| Brosur (bifold/trifold/Z-fold) | A4 folded | cover: name + hook; inside: offer, items/services, process; back: contact, location, social | panel plan, continuity across folds | one prompt per side or panel, each standalone |
+| Katalog / lookbook / price book | A5-A4 multi-page | E cover, product pages | cover system + page grid | one prompt per page type |
+| Undangan / grand opening / voucher / kupon | A6-A5, DL | E occasion, name, date/time/place (if supplied) · C contact · O terms (supplied), QR | ceremonial centered or festive | terms exact as supplied |
+| Kalender (meja/dinding) | A5/A3 | E year, months, name · O promos | cover + month grid system | holiday dates only if supplied |
+
+**Small formats / identity**
+| Product | Size | Default content | Structure | Notes |
+|---|---|---|---|---|
+| Kartu nama | 9×5.5 or 8.5×5.5 cm | E name/business, role · C phone/WA, social, address · O tagline, QR plate | mark + ≤3 lines; front/back as two prompts | generous space |
+| Kartu member / loyalty (stamp card) | 9×5.5 cm | E name, stamp grid · O reward text (if supplied) | grid of N empty circles/cells | stamp area blank |
+| Kartu ucapan / thank-you card | A6/ 9×5.5 | E name, message (supplied) · C handle | small mark, warm message area | blank writing area optional |
+| Nota / struk header / kop surat / amplop / stempel | A5/A4/DL | E name, address, contact | lockup top, restrained field | monochrome-safe |
+| Seragam / apron / kaos / totebag print | chest 8-25 cm | E mark or motif | ≤3 flat colors, simplified mark | print method limits (DTF/sablon) |
+| Merchandise: gelas, mug, botol, totebag | wrap or panel | E mark · C motif, handle | wrap pattern + panel | curvature safe |
+
+**Packaging and labels**
+| Product | Typical form | Default content | Structure | Notes |
+|---|---|---|---|---|
+| Stiker label produk / hang tag | round 5-8 cm, rect, die-cut | E name, variant · C net weight/size (supplied), handle · O claims (supplied), official marks as attachments | roundel, label, panel; ≤4 flat colors | must read at small scale |
+| Label botol / stoples / jar | wrap label | E name, product · C weight, handle | wrap + front focal | wrap-around continuity |
+| Cup sleeve / cup print / paper cup | wrap 9×22 cm | E mark · C motif, handle | repeat pattern + focal | seam safe |
+| Dus kue / box nasi / paper bag / wrap paper / kertas nasi / plastik print / standing pouch / kantong | per dieline | E name, product · C handle, short story · O instructions | repeat pattern + focal panel; consider front/side/back/lid | flat artwork, no dieline; main panel only if unknown |
+| Segel / sticker seal / pita | small | E mark or motif | tiny and simple | |
+
+**Digital companions (if requested alongside print):** IG feed 4:5 / 1:1, story/reel/WA status 9:16, GoFood/GrabFood/ShopeeFood banner (landscape/square), Google Maps photo. Same pipeline, shorter distance, shorter text; each prompt standalone; the identity matches the print set.
 
 ---
 
-## 3. Large-format / outdoor
+## 3. Materials, methods, finishes (design implications)
+| Item | Options | Implication |
+|---|---|---|
+| Large-format media | flexi (frontlite/backlite), albatros, vinyl/sticker vinyl, MMT, kain, ACP, akrilik, PVC board | flexi: flat saturated fields, no hairlines; backlite: luminous, high contrast; vinyl: cut shapes; ACP/acrylic: crisp edges |
+| Paper | HVS, art paper, art carton, ivory, concorde/texture, kraft, duplex, stiker chromo/vinyl/transparan/hologram | kraft: limited inks, earthy; art paper: fine detail ok; transparent sticker: avoid white dependence |
+| Print method | digital, offset, sablon/screen, DTF, cutting, UV print, riso | screen/riso/cutting: ≤4 flat colors, hard edges; digital: full color; DTF: bold shapes |
+| Finishing | laminasi doff/glossy, spot UV, emboss/deboss, hot-foil, die-cut, perforasi, jilid, lipat | leave plain areas for spot effects; emboss needs bold simple shapes; foil = flat metallic area (don't draw gradients) |
+| Surface/shape | curved cup, wrap, folds, grommets, hems | keep key content off seams/curves/folds |
 
-### Spanduk / banner horizontal (typical 3×1, 4×1, 3×0.8, 4×1.2 m; ratio ~3:1-5:1)
-- **Content:** E: business name, what it sells (descriptor) · C: 2-4 hero items or a tagline, phone/WhatsApp, address/area, social handle · O: promo, hours, "buka"/"grand opening", delivery.
-- **Hierarchy:** mark ≫ hero/offer > contact strip.
-- **Structure options:** centered axis with supporting zones, weighted asymmetry, left/right anchored two-zone, hero-led bleed, banded; a single hero beneath a one-line sign.
-- **Distance & safe:** mark readable from 10 m+; info readable ~3 m; keep content out of the outer ~5% (hems, grommets).
-- **Notes:** flexi/vinyl; sun-glare → strong value contrast; avoid thin lines.
+## 4. Size defaults (label as Suggested when owner doesn't know)
+Spanduk 3×1 or 4×1 m · X-banner 60×160 cm · roll-up 85×200 cm · papan nama 2-4 m × 60-100 cm · menu A4 portrait or A3 landscape · poster A3 · flyer A5 · brosur A4 trifold · kartu nama 9×5.5 cm · stiker round 5-8 cm · window sticker 30-50 cm · gerobak panel 150-200×60-80 cm · menu board 60×90 cm · table tent A5.
 
-### Baliho / billboard-like / large wall panel
-- Fewer elements than a spanduk; one hero + mark + one line of contact. Extreme distance: the mark and the hero must work as silhouettes.
+## 5. Multi-medium planning
+1. **Define the shared identity once:** palette, Style DNA, mark, motif family, illustration technique, type system, heritage cue, signature move, icon set.
+2. **Assign roles:** banner = recognition · menu = information · sticker = recall · kartu nama = contact · X-banner = journey · poster = single message · packaging = shelf impact.
+3. **Adapt per medium:** composition, hierarchy, hero depiction, text load, connector scale; not a resize.
+4. **Each prompt complete** (repeats the identity; only its own attachments).
+5. **Cross-check** with `13` §3.
 
-### X-banner / roll-up (X: ~60×160 cm; roll-up: ~80×200 or 85×200 cm; vertical ~1:2.5-1:2.4)
-- **Content:** E: name, descriptor · C: hero/offer, 3-5 key items or benefits, contact + location · O: promo, QR, hours.
-- **Hierarchy:** mark in the **top third** → hero → key points → contact at lower third.
-- **Structure options:** vertical stack, tiered rows, hero-led, a long path that leads the eye down.
-- **Safe:** keep the bottom ~10-15% free (stand base); top ~5% free (header clip).
-
-### Papan nama / signboard / neon-box / plang (very wide, 4:1-8:1; also double-line)
-- **Content:** E: name, descriptor · C: one-line offer or categories, phone · O: address/year.
-- **Hierarchy:** the name dominates; everything else is subordinate; minimal info.
-- **Structure options:** single-line lockup, two-line lockup, name-plus-icon, name over a band; can be backlit (high contrast between letter and ground).
-- **Notes:** fewer fine details; strong ground contrast; letters level and optically centered.
-
-### Gerobak / vehicle-side / tenda / booth panel
-- **Content:** E: name, what it sells · C: price list for 3-6 items, contact · O: QR/QRIS space (blank plate).
-- **Structure:** long strip; mark centered or anchored; readable in motion; panels may wrap corners, keep content away from folds.
-- **Notes:** the hero should read as part of the cart's visual language; connector can be the counter line.
-
-### Window/door sticker, storefront glass
-- Mirror-safe or inside/outside decision; large simple shapes, 2-3 colors; nothing important near edges; legible over variable backgrounds (add plate if needed); hours as clock icon + value.
-
----
-
-## 4. Menus and price info
-
-### Menu / daftar menu (A4, A3, A5, board, booklet, table menu)
-- **Content:** E: name, categories, items with exact names, prices · C: short item descriptions (only if supplied), hours, contact/ordering line, location · O: best-seller marks, spice levels, add-ons, payment methods, notes (service charge, etc.), a small tagline.
-- **Hierarchy:** header (name + descriptor) 15-25% → categories → item names → prices → descriptions/notes → contact strip.
-- **Structure options:** banded sections; 2-3 column grid; hero-led with list; category tabs; one page per category (booklet); a board with chalkboard feeling; a long scroll for wall menus.
-- **Rules:** consistent price column (right-aligned or tied by leaders); consistent item rhythm; thinner decoration than a banner; no hero covering text; text contrast high.
-- **Long lists:** flag in the assumptions line; for >20 items consider splitting into two prompts (front/back or per category) or one prompt per page; each standalone.
-
-### Daftar harga / price list (service price tables, laundry per kg, etc.)
-- **Content:** E: service names, prices, units (per kg, per item) · C: turnaround time, pickup, contact, notes · O: promo/bundles.
-- **Structure:** table or cards; one column for price; icons for service types; minimal decoration.
-
-### Menu board (wall/counter, backlit or chalk-style)
-- Distance ~2-4 m; large item names; max 8-12 lines; high contrast; prices large.
-
-### Table tent / tent card / meja / QR stand
-- **Content:** E: name, a short message or promo · C: QR plate (blank unless supplied), WiFi? Social handle · O: best-seller of the day.
-- Two-sided options; compact and legible; avoid detail.
-
----
-
-## 5. Paper promotion
-
-### Poster (A3, A2, A1) / Flyer (A5, A6, A4) / Leaflet
-- **Content:** E: name, one clear message/offer · C: hero, contact, address, date/time (events) · O: CTA, QR plate, social handle.
-- **Hierarchy:** one message → visual → details → CTA.
-- **Structure options:** hero-led, diagonal, stacked, split, typographic poster, collage-with-anchor.
-- **Notes:** a poster is a single message; a flyer can carry more details but still one headline.
-
-### Brosur / brochure (bifold, trifold; A4 folded)
-- **Content:** cover: name + hook; inside: offer, items/services, process or benefits; back: contact + map hint + social.
-- **Structure:** panel-by-panel planning; each panel clear; cover works alone; continuity across folds (connector crossing panels without cutting key content at folds).
-- **Notes:** for multi-panel, either one prompt per side (outside/inside) or one panel per prompt; each standalone and each states the whole identity.
-
-### Undangan / grand-opening / promo card / voucher / kupon
-- **Content:** E: occasion and name, date/time/place (only if supplied) · C: contact · O: promo terms (supplied), QR plate.
-- Structure: centered and ceremonial, or festive and exuberant by register.
-
----
-
-## 6. Small formats / packaging
-
-### Kartu nama (typ. 9×5.5 cm or 8.5×5.5 cm; landscape/portrait)
-- **Content:** E: name of person/business, role · C: phone/WhatsApp, social, address/area · O: tagline, QR plate.
-- **Structure:** mark + 3 lines; generous space; minimal connector; optionally a back side (two prompts: front, back).
-
-### Stiker / label produk / hang tag / label kemasan
-- **Content:** E: name, product name/variant · C: net weight/size (supplied), contact/social, short claim (supplied) · O: ingredients/expiry areas as blank text zones only if supplied; official marks as attached images.
-- **Structure:** roundel, label, panel; ≤4 flat colors; strong ground contrast; die-cut shape if known (circle, rounded rectangle, custom).
-- **Notes:** designed to read at small scale; avoid fine detail.
-
-### Kemasan (box, cup sleeve, paper bag, wrap paper, kertas nasi, pouch, kantong plastik)
-- **Content:** E: name, product · C: contact/social, short story line · O: instructions.
-- **Structure:** repeat pattern + a focal panel; each panel considered for the 3D shape (front, side, back, lid) but rendered as a flat dieline-free artwork; give the main panel and a coordinated pattern.
-- **Notes:** state the item and panel; if the dieline is unknown, design the main panel only and flag it.
-
-### Kartu ucapan / thank-you card / loyalty card (stamp card) / kartu member
-- **Content:** E: name, message (supplied) · C: stamp grid (loyalty), contact · O: QR plate.
-- Loyalty card: a grid of N stamp circles with clear empty spaces; count and reward text only if supplied.
-
-### Nota/struk header, kop surat, kalender, seragam (shirt print), apron print
-- Treat as adjacent print: logo lockup, one motif, minimal text; apparel uses ≤3 flat colors and a simplified mark.
-
----
-
-## 7. Digital companions (if requested alongside print)
-Instagram feed (4:5 or 1:1), story/reel cover (9:16), WhatsApp status (9:16), GoFood/GrabFood/ShopeeFood banner, Google Maps photo: same pipeline, shorter viewing distance, text even shorter. Design them with the same identity as the print pieces; each prompt standalone.
-
----
-
-## 8. Multi-medium planning
-
-When the owner wants more than one medium:
-1. **Define the shared identity once:** palette, Style DNA, mark, motif family, illustration technique, type system, heritage cue, signature move.
-2. **Adapt per medium:** different composition, hierarchy, hero depiction, text load, and connector scale per format; not a simple resize. Ask: what does *this* medium need first?
-3. **Allocate roles:** e.g., banner = recognition; menu = information; sticker = recall; kartu nama = contact.
-4. **Each prompt is complete** and repeats the identity in full (palette, DNA, mark description, attachments) so it can be pasted alone.
-5. **Consistency check** across prompts in `12-concept-audit.md`.
-
-### Common bundles (examples; invent others)
-Kedai kopi: menu + banner + stiker gelas + kartu nama. Warung: spanduk + daftar menu + papan nama. Laundry: banner + price list + X-banner + nota. Kue: label + kemasan + kartu ucapan + poster. Jasa: kartu nama + flyer + stiker kendaraan.
-
----
-
-## 9. Size defaults (when the owner doesn't know; label as Suggested)
-Spanduk 3×1 m or 4×1 m · X-banner 60×160 cm · roll-up 85×200 cm · papan nama 2-4 m × 60-100 cm · menu A4 portrait or A3 landscape · poster A3 · flyer A5 · brosur A4 trifold · kartu nama 9×5.5 cm · stiker round 5-8 cm · stiker window ~30-50 cm · gerobak panel ~150-200 × 60-80 cm.
+Common bundles (seeds): kedai kopi: menu + banner + stiker gelas + kartu nama · warung: spanduk + menu + papan nama · laundry: banner + price list + X-banner + nota · kue: label + kemasan + kartu ucapan + poster · jasa: kartu nama + flyer + stiker kendaraan · grand opening: spanduk + umbul-umbul + flyer + voucher.

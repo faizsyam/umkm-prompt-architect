@@ -16,21 +16,29 @@ Skill ini **tidak langsung membuat prompt**. Claude akan bertanya dulu seperti k
 
 Cukup sekali. Setelah itu skill siap dipakai di percakapan mana pun.
 
-### 2. Minta desain, lalu jawab pertanyaan Claude
+### 2. Minta desain, jawab pertanyaan, lalu pilih arah desain
 Ketik permintaan sederhana, misalnya:
 - "Buatkan spanduk untuk warung bakso saya"
 - "Saya butuh menu dan banner untuk kedai kopi"
 - "Bikin desain stiker untuk usaha kue rumahan"
 
-Claude akan bertanya beberapa hal, sedikit demi sedikit:
+**Tahap 1: Claude bertanya singkat (maksimal 4 pertanyaan sekali tanya)**
 - Usaha Anda jual apa dan untuk siapa
 - **Apa yang membuat usaha Anda beda** dari yang lain
-- Mau dibuat apa saja (boleh lebih dari satu) dan ukurannya
-- Tulisan apa yang harus tercetak (nama, menu, harga, nomor WA, Instagram, alamat)
-- Kesan yang diinginkan (hangat, ramai, mewah, bersih, dll.)
-- Punya logo atau contoh desain atau tidak
+- Mau dibuat apa saja (boleh lebih dari satu), ukuran, dan teks yang dicetak
+- Punya logo atau foto atau tidak
 
-**Tidak tahu jawabannya? Tidak apa-apa.** Katakan saja "bingung" atau "terserah". Claude akan memberi pilihan dan saran. Sebelum mulai mendesain, Claude akan merangkum jawaban Anda. Cek dulu, lalu balas **"lanjut"** kalau sudah benar.
+Claude lalu merangkum jawaban Anda. Cek dulu, lalu balas **"lanjut"** kalau sudah benar.
+
+**Tahap 2: Anda memilih arah desain (satu pertanyaan sekali tanya)**
+1. **Kesan** yang diinginkan (misalnya hangat, kekinian, nostalgia)
+2. **Gaya desain**
+3. **Warna**
+4. **Elemen tambahan** (misalnya maskot, gambar produk besar, motif daerah, kotak QR kosong)
+
+Setiap pertanyaan memberi 3 pilihan yang disesuaikan dengan usaha Anda, lengkap dengan rekomendasi. Boleh pilih satu, campur (misalnya A+C), atau jawab "terserah".
+
+**Tidak tahu jawabannya? Tidak apa-apa.** Katakan saja "bingung" atau "terserah". Claude akan memberi pilihan dan saran.
 
 ### 3. Salin prompt ke generator gambar
 - Claude memberi **satu prompt untuk setiap jenis cetakan** (misalnya satu untuk spanduk, satu untuk menu).
@@ -75,20 +83,21 @@ umkm-print-prompt-architect/
 ├── SKILL.md                      alur kerja utama dan aturan
 └── references/                   panduan per tahap (dibaca Claude sesuai urutan)
     ├── 01-interview-protocol.md          wawancara ala konsultan
-    ├── 02-industry-playbooks.md          panduan per jenis usaha
-    ├── 03-print-types.md                 isi, struktur, ukuran tiap jenis cetakan
-    ├── 04-strategy-and-concept.md        strategi dan ide desain
-    ├── 05-design-principles.md           prinsip desain
-    ├── 06-style-library.md               pustaka gaya dan budaya lokal
-    ├── 07-color-system.md                warna
-    ├── 08-typography.md                  tipografi
-    ├── 09-layout-and-unity.md            tata letak dan keterpaduan
-    ├── 10-brand-mark.md                  logo dan penulisan nama usaha
-    ├── 11-content-icons-illustration.md  isi, ikon, ilustrasi, dekorasi
-    ├── 12-concept-audit.md               pemeriksaan sebelum menulis prompt
-    ├── 13-prompt-writing.md              cara menulis prompt
-    ├── 14-delivery-and-qa.md             pengecekan akhir dan revisi
-    └── 15-examples.md                    contoh
+    ├── 02-industry-playbooks.md          panduan per jenis usaha dan lokasi
+    ├── 03-print-types.md                 isi, struktur, bahan, ukuran tiap jenis cetakan
+    ├── 04-direction-selection.md         pilihan kesan, gaya, warna, elemen
+    ├── 05-strategy-and-concept.md        strategi dan ide desain
+    ├── 06-design-principles.md           prinsip desain
+    ├── 07-style-library.md               pustaka gaya dan budaya lokal
+    ├── 08-color-system.md                warna dan palet
+    ├── 09-typography.md                  tipografi
+    ├── 10-layout-and-unity.md            tata letak dan keterpaduan
+    ├── 11-brand-mark.md                  logo dan penulisan nama usaha
+    ├── 12-content-icons-illustration.md  elemen, ikon, ilustrasi, dekorasi
+    ├── 13-concept-audit.md               pemeriksaan sebelum menulis prompt
+    ├── 14-prompt-writing.md              cara menulis prompt
+    ├── 15-delivery-and-qa.md             pengecekan akhir dan revisi
+    └── 16-examples.md                    contoh
 ```
 
 ### Membuat ulang file .skill (opsional, untuk pengembang)
