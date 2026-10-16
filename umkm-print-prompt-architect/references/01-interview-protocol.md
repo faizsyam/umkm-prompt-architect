@@ -7,7 +7,7 @@
 ---
 
 ## 1. Conduct rules
-1. **One theme, ≤4 short questions per message.** Each open question carries an example or inline options.
+1. **Message budget: one theme, ≤3 questions, each ≤15 words, no preamble.** Ask only the 2-3 most decisive unknowns; the rounds below are a checklist for you, not a script for the owner. An example or inline options (max 3) only when the question would otherwise be unclear.
 2. **Extract before asking.** Pull everything already stated; verify ("kalau saya tangkap … benar?") instead of re-asking.
 3. **"Belum tahu" is a valid answer.** Respond with options, a hypothesis, or a suggested default, never silence.
 4. **Hypothesize, then verify.** Say a suspected USP back as a question; lock it only on confirmation.
@@ -109,25 +109,24 @@ Record file labels ("logo-kopi-senja.png") for the "Attach:" line. If the logo i
 **Should have:** surroundings/competitor · brand colors · must-avoid · hero · regional cue · budget.
 (Mood, style, palette, elements are confirmed next, in `04`.)
 
-**Recap (≤12 lines; owner's language):**
+**Recap (≤8 lines; owner's language; everyday words):**
 ```
-Ringkasan (mohon dicek):
-1. Usaha: [nama], [jual apa], untuk [siapa], [cara beli]
-2. Lokasi & pesaing: [..]; dilihat dari [jarak/cara lewat]
-3. Pembeda utama: [..]; pendukung: [..]
-4. Aset: [logo/foto/desain lama → dipakai untuk ..]
-5. Dibuat: [Medium 1, ukuran: tujuan] · [Medium 2, ukuran: tujuan]
-6. Teks persis: [..]
-7. Ikon kontak: [WhatsApp 08.., Instagram @.., lokasi ..]
-8. Hindari/wajib: [..]
-✔ Pasti: .. ? Saya asumsikan: .. ✚ Saran: ..
-Sudah sesuai? Balas "lanjut" atau koreksi.
+Ringkasan (cek ya):
+• Usaha: [nama], [jual apa], untuk [siapa]
+• Pembeda: [..]
+• Lokasi & pesaing: [..]
+• Dibuat: [medium, ukuran, tujuan]
+• Teks & ikon: [teks persis]; WA 08.., IG @.., lokasi ..
+• Aset: [logo/foto → dipakai untuk ..]
+• Hindari/wajib: [..]
+Asumsi saya: [..]. Saran: [..].
+Sudah benar? Balas "lanjut" atau koreksi.
 ```
 After "lanjut" go straight to `04`. After corrections, re-confirm only changed items.
 
-## 8. Question bank (pick; never list all)
-**Background:** Jual apa persisnya? Siapa pelanggan? Sudah berapa lama? Lokasi dan sekitarnya? Pesaing terdekat seperti apa?
-**USP:** Apa yang paling dipuji? Apa yang tidak ada di tempat lain? Cerita di balik usaha? Dalam satu kalimat, pelanggan menceritakan Anda bagaimana?
-**Product:** Mau dibuat apa saja, ukuran, dipasang di mana, dilihat dari jarak berapa? Orang harus berbuat apa setelah melihat? Teks apa yang harus tercetak?
-**Assets:** Punya logo/foto/desain lama? Dipakai untuk apa? Ada yang harus dihindari?
-**Unsure:** "Saya kasih tiga gambaran, mana yang paling mirip?" · "Toko sebelah pakai X: mau mirip atau beda sama sekali?"
+## 8. Question bank (direct; pick 2-3 per message, never list all)
+**Background:** Jual apa persisnya? · Siapa pembeli utamanya? · Tokonya di mana, sekitarnya apa? · Pesaing terdekat tampilannya seperti apa?
+**USP:** Kenapa orang memilih Anda, bukan yang lain? · Apa yang paling sering dipuji? · Apa andalan Anda dan apa bedanya?
+**Product:** Mau dibuat apa saja, ukuran berapa? · Dipasang di mana, dilihat dari jarak berapa? · Setelah melihat, orang harus berbuat apa? · Teks persisnya apa?
+**Assets:** Ada logo atau foto? · Ada yang harus dipakai atau dihindari?
+**Unsure:** "Mana yang lebih mirip Anda, A atau B?" · "Mau mirip toko sebelah atau beda sama sekali?"

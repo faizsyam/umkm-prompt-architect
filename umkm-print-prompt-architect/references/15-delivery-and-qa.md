@@ -15,21 +15,21 @@
 
 **Design decisions**
 - [ ] Palette: strategy, ground, roles/usage, "no other hues", legibility clause; harmonized with the attached logo.
-- [ ] Unity: designed field + derived connector behind/through all zones.
-- [ ] Layout: archetype, proportions, dominance, caps, axis, margins/safe area, balance; fits the medium's job and distance.
+- [ ] Unity: designed field + a connector with a stated job (unify/guide/express) derived from the business's world, touching every zone; or "none: single unit".
+- [ ] Layout: archetype, proportions, dominance, caps, axis, margins/safe area, balance; fits the medium's job and distance; **element and text placement chosen for medium, layout and subject, not by habit**.
 - [ ] Mark is the longest block (attached-logo rule or full form/construction/anatomy).
 - [ ] One illustration technique; appetite/product rules applied; chosen elements each have a block.
 - [ ] Type system: roles, ranking, spacing, tone; prices tidy.
-- [ ] Decoration: tiers, caps, restraint; clear space around mark and info.
+- [ ] Decoration: amount chosen deliberately; each accent named with the trait or story it carries; clear space around mark and info.
 - [ ] Info block: **icons + values**, consistent set, no label words.
 - [ ] Audit (`13`) passed: ≥5/8 non-habitual, ≥1 idea outside the lists, signature move, nothing inherited.
 
 **Prompt hygiene**
 - [ ] Attachments numbered with role and do/do-not; same order in "Attach:".
 - [ ] QR/official marks attached unaltered or blank plate.
-- [ ] TEXT block: values only, verbatim, by prominence.
-- [ ] Exclusions: core + concept-derived + owner-driven (incl. non-chosen elements).
-- [ ] No fluff or anti-vocabulary; length in range; starts with `@Create image`; flat artwork stated.
+- [ ] Every printed string appears once, in quotes, inside the element where it sits; no separate text list; values only for icons.
+- [ ] Exclusions: one short line; only plausible default-adds not already ruled out by the prompt (no "no photo/3D/gradient" when the prompt says flat 2D).
+- [ ] No fluff or anti-vocabulary; 300-550 words (≤650); starts with `@Create image`; flat 2D artwork stated once.
 
 **Standalone test (read each prompt alone)**
 - [ ] No "above", "same as", "previous", "other prompt".
@@ -42,7 +42,7 @@
 
 **Output and conversation**
 - [ ] One code block per medium; title + "Attach:" outside; ≤2 short lines of notes; no lecture; Concept Sheet not shown.
-- [ ] The conversation stayed compact (`SKILL.md` §6): one theme per message, short options, nothing re-asked.
+- [ ] The conversation stayed compact (`SKILL.md` §6): ≤3 questions of ≤15 words, recap ≤8 lines, options in everyday words with ✓/✕ ≤8 words, nothing re-asked.
 
 ---
 
@@ -83,7 +83,10 @@ Diagnose first, then reopen the **owning** stage; don't patch wording blindly.
 | "Info kontak kurang jelas / ikon aneh" | info block | `12` §2 |
 | "Tambah menu / ganti harga / tambah medium" | content change | `03`, ledger update, regenerate only affected prompts |
 | "Hasilnya persis seperti risiko yang disebut (mis. kurang menonjol)" | mitigation too weak | accepted-risk line in `05` §7, then the owning module |
-| "Masih ada hal yang tidak diinginkan di hasil" | exclusions | `14` §7 |
+| "Terlalu ramai / terlalu kosong / hiasannya tidak jelas" | decoration amount or purpose | `12` §4 |
+| "Posisi tulisan atau tagline kurang pas" | placement | `10` §3 |
+| "Elemennya terasa terpisah-pisah" | connector | `10` §2 |
+| "Masih ada hal yang tidak diinginkan di hasil" | exclusions | `14` §6 |
 Rules: confirm the change in one line, then deliver **updated prompt(s) only** · keep ✔ facts, update the ledger · when the identity changes, re-run the multi-medium audit (`13` §3) · re-derive affected blocks, don't carry old wording · if the generator keeps failing at tiny text, advise generating without long text and adding it in an editor, and offer a version with reserved clean text plates.
 
 ## 4. Handing over (tone)

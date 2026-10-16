@@ -33,8 +33,8 @@ Apply §2.
 - **Lettering by anatomy** (`09` §2): stroke contrast, terminals, serif/slab, width, weight, spacing, x-height, finish. No font names.
 - **Construction details:** keylines, inline strokes, base bands, dividers, layered shadows, inner borders, integrated icon/crown/tool, hero letter, ligature.
 - **Optical quality always:** spacing, baseline and line proportions balanced; lettering level and optically centered; **no accidental skew, warp or distortion**. A deliberate tilt/arc is specified as a range and kept clean.
-- **Descriptor / year** (only if supplied): subordinate, own placement, tracking and family relationship.
-- **One evocation phrase** (what the mark recalls) + **focal status** (clearly the largest element).
+- **Descriptor / year** (only if supplied): subordinate to the name; it may sit with the mark or with the hero or elsewhere (`10` §3), with its own tracking and family relationship.
+- **Focal status:** the mark is clearly the largest element (unless the hero leads by design).
 - **Silhouette and small-size legibility:** few details; test at sticker/card size.
 - **Mascot** only if chosen in D4 (`04`); define style limits and shared Style DNA.
 
@@ -64,4 +64,4 @@ Apply §2.
 Multi-medium: same logic, different arrangement (stacked for tall, single-line for wide, compact for small).
 
 ## 5. Writing the mark block (longest in the prompt)
-`**[ZONE]: the brand mark.** [Mode A: attached-logo statement, placement, plate] or [Mode B: form] [construction] [lettering anatomy] [word hierarchy] [optical quality] [descriptor/year] [evocation] [focal status]`
+`**Mark:** [Mode A: attached-logo line, placement, plate] or [Mode B: form, construction, lettering anatomy, word hierarchy, optical quality]; text "[Name]" [position]; "[descriptor]" [position, only if supplied].` Keep ≤90 words.

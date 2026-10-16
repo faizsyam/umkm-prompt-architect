@@ -149,14 +149,15 @@ Dials: Energy / Era / Finish / Density / Formality
 Style DNA: edges / contour / fill / shadow / texture / motif / color rule
 Shared identity (multi-medium): palette roles, mark approach, motif, illustration technique, type system, icon set, signature move
 Palette roles: ground / primary / accents / illustration-only
-Unity: field + connector (per medium)
+Unity: field + connector (per medium; job = unify/guide/express, or "none: single unit")
 Heritage: cue + handling (or none)
 Layout (per medium): archetype, proportions, hierarchy
 Mark: form, anatomy, hierarchy (or "attached logo unchanged")
 Content: hero, showcase, info block + icons, price/promo, chosen elements
 Illustration technique:
 Typography:
-Decoration tiers + caps:
+Decoration: amount (minimal/balanced/rich) + each accent → the trait or story it carries:
+Text placement logic (per medium; where tagline, prices, contacts sit and why):
 Signature move:
 Audit result:
 ```

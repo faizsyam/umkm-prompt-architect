@@ -17,7 +17,7 @@
 | **Hands/action scene** | pouring, cooking, folding, handing over | craft, ritual | craft, kafe, bakery | hand anatomy (keep stylized) |
 | **Regional motif / pattern** | named heritage motif (`07` §6) | rooted identity | regional/traditional | pastiche |
 | **Pattern field / background** | repeat motif as ground or band | richness, cohesion | packaging, banners | text on pattern |
-| **Ornament / decoration** | heritage, thematic, punctuation, anchors, texture (§4) | personality | per density | clutter |
+| **Decoration** | small accents that each carry a character trait, story or product feeling (§4) | personality, warmth | when the idea needs character beyond the mark and hero | filler that says nothing |
 | **Price/promo badge** | chip, tag, stamp, burst, plate; only with supplied data | action, value | promo, menu | cheap look if overused |
 | **QR plate** | attached QR placed unaltered, or blank flat plate | action | any digital link | never draw a fake QR |
 | **Icon set** | contact + service/attribute icons in Style DNA (§2) | clarity | all | consistency |
@@ -28,9 +28,10 @@
 | **Official marks** | halal, PIRT, BPOM, QRIS only as attached images, unaltered | trust | when real | never drawn from imagination |
 
 **Content-module rules**
-- **Info block:** one aligned group; icon + value (§2); consistent line spacing; flat plate if overlapping artwork; separators only if wanted.
-- **Tagline:** typographic treatment tied to hierarchy (line break, emphasis word, color, ornament), not a caption; supplied/approved only.
-- **Price/promo:** exact supplied strings; format as supplied ("15K" vs "Rp 15.000").
+- **Placement of every module is open** (`10` §3): decide by medium, layout and focal subject; conventions are defaults to keep or break on purpose.
+- **Info block:** related info stays one group (icon + value, §2), wherever the group sits (strip, column, corner, inside the scene); consistent spacing; flat plate if overlapping art.
+- **Tagline:** a typographic treatment tied to the hierarchy (line break, emphasis word, color), placed under the mark **or with the hero or the connector** when that tells the story better; supplied/approved text only.
+- **Price/promo:** exact supplied strings and format ("15K" vs "Rp 15.000"); attached to the item, in a column, or as one chip by the hero.
 - **QR:** image models can't generate valid codes: attached image placed unaltered on a clean plate with quiet space, or a **blank flat empty plate** (no pattern, no fake code); state which.
 
 ---
@@ -63,7 +64,7 @@
 
 **Service/attribute icon seeds (by sector; invent for others):** laundry (shirt, iron, droplet, scooter) · bengkel (spanner, gear sparingly, wheel) · salon (comb, scissors, mirror) · food (bowl, cup, skewer, loaf) · education (book, pencil) · retail (basket, hanger, tag) · delivery (box, route).
 
-**Rules:** icons share Style DNA (contour weight, edge language, fill) · one consistent size aligned to a shared axis/column · icon **before** its value · recognizable but generic; no exact brand logos; no letters inside except natural "f"/"P" · never print "WA/WhatsApp/IG/Instagram/Alamat/Telp/Jam" as labels or add "Follow us/Hubungi" unless supplied · handles exactly as supplied ("@kopisenja") · small media ≤3 icon-value rows; large banners: icons ≈1.2× text cap height · in the prompt's TEXT block include **values only**; describe icons in the info-block paragraph; add to Exclusions "no label words such as WA, IG, Alamat, Telp".
+**Rules:** icons share Style DNA (contour weight, edge language, fill) · one consistent size aligned to a shared axis/column · icon **before** its value · recognizable but generic; no exact brand logos; no letters inside except natural "f"/"P" · never print "WA/WhatsApp/IG/Instagram/Alamat/Telp/Jam" as labels or add "Follow us/Hubungi" unless supplied · handles exactly as supplied ("@kopisenja") · small media ≤3 icon-value rows; large banners: icons ≈1.2× text cap height · in the prompt, the **values appear in quotes inside the info element** and the icons are described by shape; add "no WA/IG/Alamat labels" to Exclusions when an info block exists.
 
 ---
 
@@ -103,18 +104,41 @@
 ---
 
 ## 4. Decoration
-**Principle:** each piece has a **purpose, placement rule and cap**; scale quantity to the density dial; tie each accent to the offer, heritage cue or connector; group by logic; keep clear space around the mark and info; never touch info text; state a restraint clause.
 
-**Tier library**
-| Tier | Options |
-|---|---|
-| Heritage / pattern | tone-on-tone motif, trim, tassel, fretwork, ornament band, tile fragment, hand-block patch |
-| Thematic | ingredients, tools, packaging, plants, steam, drops, crumbs, utensils; grouped near the hero or set |
-| Punctuation | sparkles, dots, stars, bursts, asterisks, dashes, sprigs, swirls, motion ticks; one family, sparse, shared direction |
-| Anchors | stage shapes, cushions, boards, shadows, grounds under/behind elements |
-| Texture | grain, halftone, paper fibres, print noise, ink bleed, fabric weave |
-| Dividers/frames | rules, double rules, dotted leaders, scalloped band, ribbon-free banner, corner brackets, arch frame, plate |
-| Background treatments | flat, two-tone split, soft zones, pattern mask, stage shape, rays, grid, stripes |
-| Badges | seal, starburst (use sparingly), ticket, ribbon tag, round sticker |
+**Principle.** Decoration exists to **carry character**: it tells the viewer something about *this* business (personality, origin, ritual, ingredient, mood) that the mark and hero do not already say. It is never added just to look nice or to fill space. If removing a piece loses nothing but "prettiness", remove it. Decide **how much** first, then **what**.
 
-**Budget by density:** spacious ≈4-6 accents · balanced ≈8-12 · rich ≈12-20 · abundant ≈20-30 (still grouped).
+### 4.1 How busy or minimal? (decide before choosing accents)
+| Factor | Leans minimal | Leans rich |
+|---|---|---|
+| Mood / personality | calm, premium, trustworthy | festive, abundant, cheeky |
+| Medium and distance | far viewing, small formats | near viewing, large panels with room |
+| Information load | many items or prices | few words |
+| Hero strength | strong hero already says it | simple or typographic design |
+| Neighbors and category | neighbors are busy (calm stands out) | neighbors are plain, or abundance is the USP |
+| Production | few colors, sablon, sticker | full color, large print |
+| Style and audience | modern clean; professional or parent-trust | folk, maximal; kids, youth |
+**Amount (guide, not quota):** **minimal** 0-3 accents, each precise · **balanced** 4-8 · **rich** 9-16 · **abundant** 17+, strictly grouped. Minimalist is not empty: character then comes from one exact detail. When in doubt, fewer and more characterful.
+
+### 4.2 Purpose test (every accent must pass)
+1. **What does it say about this business?** (trait, story, product feeling, atmosphere)
+2. **Could it sit on any other business unchanged?** If yes, cut or replace.
+3. **Does it support the focal point** (frames, points to, or echoes the hero) rather than compete?
+4. **Does it share the Style DNA** and survive the viewing distance?
+
+### 4.3 Roles and options (seeds; invent from the business's world)
+| Role (what it carries) | Options | Example reading |
+|---|---|---|
+| **Character** (personality: humor, warmth, boldness) | hand-drawn doodles · small expressive marks (sweat drops for pedas) · quirky characters · speech ticks · playful irregularity | cheeky snack stall |
+| **Story** (origin, ritual, heritage) | tools of origin (ulekan, wajan) · regional motif · old-photo or recipe-card cue · handwritten note · year stamp (only if supplied) | family recipe warung |
+| **Product feeling** (ingredient, heat, crunch, chill) | the ingredients themselves · heat waves · crumbs · frost · drips · steam · sprinkles that fit the product | bakery, ice drinks |
+| **Emphasis** (draws the eye to the hero) | hand-drawn pointer · underline swash · highlight marks · motion ticks · small burst (sparingly) | promo hero |
+| **Rhythm** (leads the eye, fills dead space with purpose) | dot or shape trail along the connector · repeated small shapes · corner or edge accents | long banner |
+| **Atmosphere** (time, place, weather) | stars or moon (night) · sun rays · bulbs or bunting · lanterns · clouds · falling leaves | night trade, pasar |
+Functional pieces (dividers, price leaders, frames, plates) are structure, not decoration; keep them lean. Texture (grain, paper) is atmosphere, not an accent to count.
+
+### 4.4 Rules
+Tie each accent to the Design Idea, a heritage cue or the connector · cluster near the hero or at edges, never touching info text · **≤3 sizes**, one direction logic, same Style DNA · repeat an accent type ≥2 times or use it once, large; no scattered one-offs · asymmetric grouping, not even sprinkling · layer behind text and mark · keep it legible at the viewing distance (tiny pieces vanish on a banner).
+**Anti-patterns:** confetti filler · random sparkles or stars · generic leaves · clip-art drop-ins · ornament louder than the hero · mixed styles · frames around everything · accents that could belong to any business.
+
+### 4.5 In the prompt
+Name each accent with the trait or story it carries, plus where and how many; nothing else: `Decoration (balanced): chili sprigs = pedas heat, clustered right of the hero (3-4); steam wisps = freshly cooked; nothing else.`

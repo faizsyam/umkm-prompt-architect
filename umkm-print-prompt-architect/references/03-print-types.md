@@ -15,7 +15,8 @@
 6. **Contact/info = icon + value** (`12` §2); label words never printed.
 7. **Scale rule:** key text height ≈ 2.5 cm per 3 m viewing distance (minimum); the mark must survive as a silhouette at far distance.
 8. **Production intent only** (no marks drawn): flat artwork; colors that survive CMYK and sun; strong outdoor contrast; no hairlines on banner media.
-9. **Content checklist:** **E** essential · **C** common (suggest) · **O** optional (suggest when it fits the USP). Facts always "only if supplied".
+9. **Placement is flexible.** Hierarchy and structure listed per product are defaults; where each element sits follows `10` §3 (medium, layout, focal subject).
+10. **Content checklist:** **E** essential · **C** common (suggest) · **O** optional (suggest when it fits the USP). Facts always "only if supplied".
 
 ---
 

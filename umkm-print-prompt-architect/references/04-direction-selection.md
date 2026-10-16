@@ -15,7 +15,7 @@ Runs after Gate A (`01` §7). Four **separate** requests, **one dimension each**
 6. **Honest trade-offs.** Every option shows **why to choose it** and **when not to**. No option is perfect, nothing is hidden, nobody is steered. The recommendation is justified by evidence and names its main risk.
 7. **Feasibility before flair.** Fixed constraints (logo, facade, culture, budget, material, lifespan) filter options before taste does.
 8. **Cumulative coherence.** Each choice constrains the next; later options are built from earlier answers.
-9. **Compact and plain.** Simple words, concrete to *their* business, one dimension per request.
+9. **Compact and plain.** Everyday words, tied to *their* business, one dimension per request, strict size limits (§5). Design terms stay internal.
 
 ---
 
@@ -88,93 +88,107 @@ Pick the one (rarely two) that matters most; each resolution becomes the **bet**
 8. **Discard** options a competitor could use unchanged, that look like a big brand, or that fail the medium/distance.
 
 ## 5. Communicating options
-**Principle:** plain words, concrete to *their* business, balanced, short. The owner should grasp each option in 10 seconds and know when it is wrong for them.
+**Principle.** The owner grasps each option in 10 seconds and knows when it is wrong for them. **Everyday words only:** say what they would *see*, *feel* or *compare it to* (a place, an object, an era). Design terms stay in this file, never in front of the owner.
 
+**Size limits:** lead ≤15 words · 3 options (a 4th only if truly different) · per option: name + picture ≤8 words, ✓ ≤8 words, ✕ ≤8 words · Rekomendasi ≤20 words.
 ```
-[Lead: one sentence, the insight that shaped these options]
-A. **Name**: one-line picture (≤10 words)
-   ✓ Pilih kalau: … (≤12 words)
-   ✕ Kurang cocok kalau: … (≤12 words)
-B. …  C. …  (D. only if distinct)
-Rekomendasi: [X], karena [evidence]. Risikonya: [main ✕]; saya tutup dengan [mitigation].
+[Lead: one sentence, the insight behind these options]
+A. **Name**: picture
+   ✓ Pilih kalau …
+   ✕ Kurang cocok kalau …
+B. …   C. …
+Rekomendasi: [X], karena [evidence]. Risikonya: [✕]; saya tutup dengan [fix].
 Pilih satu, campur (mis. A+C), atau "terserah".
 ```
-**Rules for ✓ / ✕:**
-- ✓ names the **condition or benefit** that makes it right, tied to their USP, audience, place or goal.
-- ✕ names a **real cost or failure condition** (less visible, costlier, limits, mismatch, upkeep), not a disguised compliment ("terlalu bagus").
-- Same depth and tone across options; every option has both; "kalau" conditions, no fear tactics, no superlatives except the single Rekomendasi.
-- Unknown costs are flagged honestly ("butuh foto produk yang bagus").
-- The recommendation is not always the safe option; it is the best fit by evidence, with its risk stated. Never push twice.
-- Tappable UI: lead + ✓/✕ in the question text; buttons carry only the short names (A/B/C + name) and "Campur / terserah". D4 is multi-select. No tappable UI: lettered list, answered with a letter.
-- Palette options show 3-4 **color names with roles** (hex only if the interface can render it).
+**Plain-words rule** (internal term → say):
+| Internal | Say |
+|---|---|
+| ground, background | warna dasar |
+| palette | pilihan warna |
+| accent color | warna penegas |
+| contrast | beda terang-gelap, mencolok |
+| tonal, analogous | satu rumpun warna |
+| saturated / muted | pekat / kalem |
+| hero | gambar utama |
+| motif, pattern | pola, gambar berulang |
+| ornament, decoration | hiasan |
+| layout | susunan |
+| hierarchy | mana yang dibaca duluan |
+| typography | huruf |
+| serif / geometric sans | huruf klasik / huruf bulat sederhana |
+| flat illustration | gambar sederhana tanpa bayangan |
+| linocut, woodblock | gaya cetak kayu |
+| signboard craft | papan nama cat tangan |
+| minimalist / maximalist | bersih dan lega / ramai dan penuh |
+| heritage | ciri tradisional |
+| typographic-led | mengandalkan tulisan besar |
+| tension | dilema |
+Any needed unfamiliar word gets ≤6 words of explanation in brackets.
+
+**Rules for ✓ / ✕:** ✓ = the condition or benefit that makes it right for their business · ✕ = a real cost or failure condition (less visible, costlier, limits, mismatch, upkeep), not a disguised compliment · same depth for every option, "kalau" conditions, no fear tactics, no superlatives except Rekomendasi · flag unknown costs honestly ("perlu foto produk bagus") · the recommendation is the best fit by evidence, not always the safest; never push twice.
+**Tappable UI:** lead + ✓/✕ in the question text; buttons carry only short names and "Campur / terserah"; D4 is multi-select. Otherwise a lettered list answered with a letter. Palette options show 3-4 **color names with their role** (hex only if the interface can render it).
 
 ---
 
 ## 6. Dimension guides
-Each guide: what it decides · what to look for · how to spread · trade-off seeds (adapt to the business; never copy blindly).
+Each: what it decides · what to look for · how to spread · trade-off seeds (adapt to the business; owner-facing wording stays plain).
 
 ### D1: Mood / feel
-**Decides** the first-2-seconds feeling and the dials (energy, era, finish, density, formality) that drive everything.
-**Look for:** dominant emotional job, price tier, buyer vs user, distance/speed, the action, culture, owner's words (`05` §4).
-**Spread:** differ on energy, warmth, era or formality; choose 1 primary (+1 optional secondary).
+**Decides** the first-2-seconds feeling and the dials (energy, era, finish, density, formality). **Look for:** emotional job, price tier, buyer vs user, distance/speed, the action, culture, the owner's words (`05` §4). **Spread:** differ on energy, warmth, era or formality; 1 primary (+1 secondary).
 | Feeling (seed) | ✓ typical | ✕ typical |
 |---|---|---|
 | Hangat-akrab | terasa tulus, bikin betah | kurang mencolok di keramaian |
-| Tenang-adem | nyaman, kesan rapi | kurang menarik dari jauh |
+| Tenang-adem | nyaman, rapi | kurang menarik dari jauh |
 | Segar-ringan | bersih, sehat | kurang "mengenyangkan" untuk menu berat |
 | Ramai-meriah | cepat menarik perhatian | bisa terasa berantakan atau murahan |
-| Jenaka-santai | gampang diingat | kurang kredibel untuk jasa serius |
+| Jenaka-santai | gampang diingat | kurang meyakinkan untuk jasa serius |
 | Berani-kuat | terlihat dari jauh | bisa terasa keras |
 | Rapi-terpercaya | meyakinkan pembeli baru | bisa terasa dingin |
-| Mewah-berkelas | menaikkan nilai produk | menjauhkan pembeli sensitif harga, produksi harus rapi |
+| Mewah-berkelas | menaikkan nilai produk | menjauhkan pembeli hemat; cetak harus rapi |
 | Nostalgia-jadul | punya cerita, terasa asli | bisa terkesan kuno bagi anak muda |
-| Muda-kekinian | menarik anak muda, enak dibagikan | cepat terasa "biasa", kurang untuk orang tua |
-| Tradisional-berakar | kuat identitas daerah | rumit dari jauh bila motif ramai |
-| Lembut-manis | cocok dessert dan anak | kurang pas untuk produk "kuat" |
+| Muda-kekinian | menarik anak muda, enak difoto | cepat terasa "biasa"; kurang untuk orang tua |
+| Tradisional-berakar | identitas daerah kuat | ramai dan rumit dari jauh |
+| Lembut-manis | cocok untuk dessert dan anak | kurang pas untuk produk "kuat" |
 
 ### D2: Style / design direction
-**Decides** the Design Idea and mechanisms (shape, type, illustration, composition, texture).
-**Look for:** central tension, medium and distance, text load, budget/colors, logo style, neighbors' styles, heritage relevance, photo availability, lifespan, update frequency.
-**Spread:** each option = **a named direction** (one-line idea + look + association), distinct on ≥3 dials, built from `07` (blend 1-3 styles) and `05` §1 idea candidates; must fit D1.
+**Decides** the Design Idea and mechanisms. **Look for:** central tension, medium and distance, text load, budget/colors, logo style, neighbors' styles, heritage relevance, photo availability, lifespan, update frequency. **Spread:** each option = **a named direction** (idea + look + familiar association), different on ≥3 dials, built from `07` and `05` §1, fitting D1.
 | Direction family (seed) | ✓ typical | ✕ typical |
 |---|---|---|
-| Heritage / craft (papan cat tangan, linocut) | cerita dan keaslian | detail halus hilang dari jauh |
-| Clean modern | rapi, mudah diperluas ke media lain | mudah mirip usaha lain |
-| Playful bold (kontras, tebal) | menonjol di tengah keramaian | sulit terlihat "mahal" |
-| Illustrated (ilustrasi khas) | unik, langsung paham produknya | butuh akurasi dan detail baik |
-| Typographic-led | hemat, tegas, jelas dari jauh | butuh nama usaha yang kuat |
-| Photo-referenced | menggugah selera, terasa nyata | butuh foto asli; hasil AI bisa kurang akurat |
-| Retro / vintage | nostalgia, mudah diingat | bisa terasa kitsch bila berlebihan |
-| Pattern / motif-led | identitas daerah kuat | salah motif bisa sensitif |
+| Tradisional buatan tangan (papan cat tangan, cetak kayu) | berkesan asli, punya cerita | detail halus hilang dari jauh |
+| Bersih dan modern | rapi, mudah dipakai di banyak media | gampang mirip usaha lain |
+| Berani dan ramai (warna besar, tulisan tebal) | paling menonjol di keramaian | sulit terlihat "mahal" |
+| Gambar khas (digambar sendiri) | unik, produk langsung dipahami | butuh gambar yang akurat |
+| Mengandalkan tulisan besar | hemat, tegas, jelas dari jauh | butuh nama usaha yang kuat |
+| Berbasis foto | menggugah selera, terasa nyata | butuh foto asli; hasil AI bisa kurang akurat |
+| Jadul / vintage | nostalgia, mudah diingat | bisa terasa norak bila berlebihan |
+| Bermotif khas daerah | identitas daerah kuat | salah pola bisa sensitif |
 
 ### D3: Color palette
-**Decides** ground, roles, legibility, and the look beside neighbors. Chosen **after** mood and style.
-**Look for:** logo and facade colors, neighbors' colors, day/night and glare, flavor/ingredient colors, cultural meanings, print method, look-alike risk, update/dirt exposure.
-**Spread:** differ on ground value (light/mid/dark), temperature, saturation, color logic; brand colors fix hue identity (offer *logo-anchored*, *logo + contrasting accent*, *logo-on-neutral*). Built from `08` §3.
-| Palette trait (seed) | ✓ typical | ✕ typical |
+**Decides** base color, roles, legibility, and the look beside neighbors; chosen **after** mood and style. **Look for:** logo and facade colors, neighbors' colors, day/night and glare, flavor/ingredient colors, cultural meanings, print method, look-alike risk, dirt/update exposure. **Spread:** differ on light/dark base, warm/cool, pekat/kalem, color logic; brand colors fix hue identity (offer *pakai warna logo*, *warna logo + satu penegas*, *logo di atas warna netral*). Built from `08` §3.
+| Trait (seed) | ✓ typical | ✕ typical |
 |---|---|---|
-| Latar terang | bersih, menu mudah dibaca | silau di luar, mudah terlihat kotor |
-| Latar gelap | mewah, menyala di malam hari | huruf kecil sulit dibaca, flexi bisa belang |
-| Jenuh-berani | terlihat dari jauh | bisa mirip merek besar |
-| Kalem-tonal | elegan, tenang | kurang menonjol dari jauh |
-| Pastel | manis, ramah | kontras rendah, huruf kecil kabur |
-| Dua warna kontras | tegas, hemat cetak | terasa keras, ruang gerak terbatas |
-| Hangat-bumi | akrab, terasa alami | bisa terlihat kusam |
-| Dingin-biru/hijau | bersih, terpercaya | kurang menggugah selera untuk makanan |
+| Warna dasar terang | bersih, menu mudah dibaca | silau di luar, cepat terlihat kotor |
+| Warna dasar gelap | mewah, menyala di malam hari | huruf kecil sulit dibaca |
+| Pekat dan mencolok | terlihat dari jauh | bisa mirip merek besar |
+| Kalem, satu rumpun | elegan, tenang | kurang menonjol dari jauh |
+| Pastel | manis, ramah | huruf kecil kabur |
+| Dua warna saling beda tegas | tegas, hemat biaya cetak | terasa keras, pilihan terbatas |
+| Hangat, warna tanah | akrab, terasa alami | bisa terlihat kusam |
+| Dingin, biru atau hijau | bersih, terpercaya | kurang menggugah selera untuk makanan |
 
 ### D4: Elements (multi-select)
-**Decides** optional additions that change recognition, warmth, cost and upkeep. Offer **≤6 relevant** ones from `12` §1, one line each, **recommended** marked. Look for: buyer/user, assets, update frequency, budget, medium job, text load, chosen style.
+**Decides** optional additions that change recognition, warmth, cost and upkeep. Offer **≤6 relevant** ones from `12` §1, one line each, **recommended** marked. **Look for:** buyer/user, assets, update frequency, budget, medium job, text load, chosen style.
 | Element (seed) | ✓ typical | ✕ typical |
 |---|---|---|
-| Maskot | mudah diingat, ramah anak | kurang pas bila ingin tampil serius |
-| Potret pemilik | personal, dipercaya | perlu izin dan kemiripan wajah |
-| Gambar produk besar (ilustrasi) | langsung paham | detail harus akurat |
-| Motif daerah | identitas kuat | salah motif bisa sensitif |
-| Badge harga/promo | mendorong membeli | kesan murah, cepat usang bila harga berubah |
-| Kotak QR kosong | siap ditempel QR asli | memakan ruang desain |
-| Ornamen ramai | meriah, kaya | mengurangi keterbacaan |
-| Hanya huruf, tanpa gambar | hemat, tegas | kurang menggugah selera |
-Format: `☐ **Maskot**: ✓ mudah diingat · ✕ kurang pas bila ingin serius`. Follow-up (e.g., mascot type) only if chosen and unclear, folded into the next message.
+| Maskot | mudah diingat, ramah anak | kurang pas bila ingin serius |
+| Potret pemilik | personal, dipercaya | perlu izin dan wajah harus mirip |
+| Gambar produk besar (gambar tangan) | langsung paham | detail harus akurat |
+| Pola khas daerah | identitas kuat | salah pola bisa sensitif |
+| Label harga/promo | mendorong membeli | terkesan murah; cepat usang bila harga berubah |
+| Kotak QR kosong | siap ditempel QR asli | memakan ruang |
+| Hiasan tambahan | meriah, berkarakter | mengurangi keterbacaan bila ramai |
+| Hanya tulisan, tanpa gambar | hemat, tegas | kurang menggugah selera |
+Format: `☐ **Maskot**: ✓ mudah diingat · ✕ kurang pas bila ingin serius`. A follow-up (e.g., mascot type) only if chosen and unclear, folded into the next message.
 
 ---
 
@@ -194,13 +208,13 @@ Format: `☐ **Maskot**: ✓ mudah diingat · ✕ kurang pas bila ingin serius`.
 **Decider questions** (seeds; one at a time): dilihat dari jauh atau dari dekat? · lebih penting menarik orang baru atau menjaga langganan? · mau tampil beda dari tetangga atau mirip tapi lebih rapi? · kalau pelanggan hanya ingat satu hal, apa? · harus awet bertahun-tahun atau musiman? · siapa yang memutuskan beli, Anda tahu?
 
 ## 8. Fast lane
-One compact message: the insight + recommended mood, style, palette (color names) and elements, each with its **one risk** and mitigation, then "setuju atau ubah satu per satu?". Any change is asked as a single dimension with 3 options in §5 format.
+One compact message: the insight + recommended mood, style, colors (names) and elements, each with its **one risk and fix in ≤12 words**, then "setuju atau ubah satu per satu?". Any change is asked as one dimension with 3 options in §5 format.
 
 ## 9. Option quality gate (silent, before sending)
 - Traces to evidence (signal → implication → lever); respects fixed constraints, assets, lifespan, budget.
-- 3-4 options, spread on ≥2 axes, each best under some condition, none dominated.
-- ✓/✕ honest, concrete, ≤12 words, plain Indonesian, balanced.
-- Recommendation justified, risk named, mitigation stated.
+- 3 options (4 only if distinct), spread on ≥2 axes, each best under some condition, none dominated.
+- ✓/✕ honest, concrete, within size limits, **everyday words, no design terms**.
+- Recommendation justified, risk named, fix stated.
 - No look-alike; builds on earlier picks; one dimension; compact.
 
 ## 10. Handoff
